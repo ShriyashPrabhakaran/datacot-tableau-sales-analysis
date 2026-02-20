@@ -34,7 +34,7 @@ Businesses need quick and clear insights from large datasets to support decision
 ---
 
 ## 🎥 Dashboard Walkthrough
-A short video walkthrough of the interactive dashboard is available in the `videos/` folder.
+A short video walkthrough of the interactive dashboard is available in the `[videos/](https://github.com/ShriyashPrabhakaran/datacot-tableau-sales-analysis/raw/refs/heads/main/final%20analysis%20tabaleu%20-%20Trim%202-%20Trim.mp4)` folder.
 
 ---
 
